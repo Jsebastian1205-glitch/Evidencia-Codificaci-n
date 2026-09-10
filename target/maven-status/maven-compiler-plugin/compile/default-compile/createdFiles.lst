@@ -1,0 +1,6 @@
+com\buildzone\config\ConexionBD.class
+com\buildzone\dao\ProductoDAO.class
+com\buildzone\model\Categoria.class
+com\buildzone\model\Producto.class
+com\buildzone\model\Marca.class
+com\buildzone\main\Main.class
